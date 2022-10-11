@@ -1,3 +1,5 @@
+Here is an example of a controlled input in reactjs, where the form inputs are manipulated using state. Normally used when the form inputs need to be dispayed else where on the page, and the information is not a security risk.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
